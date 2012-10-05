@@ -2,7 +2,7 @@
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
-  <string name="MIUI_homepage">Домашня сторінкаа MIUI</string>
+  <string name="MIUI_homepage">Домашня сторінка MIUI</string>
   <string name="accessibility_button_addbookmark">Додати сторінку в закладки</string>
   <string name="accessibility_button_back">Назад</string>
   <string name="accessibility_button_bookmarks">Закладки</string>
@@ -39,7 +39,7 @@
   <string name="allow">Дозволити</string>
   <string name="application_name">Браузер</string>
   <string name="autofill_profile_editor_address_line_1">Адресний рядок 1:</string>
-  <string name="autofill_profile_editor_address_line_1_hint">Адреса, поштовий ящик, адреса до запитання</string>
+  <string name="autofill_profile_editor_address_line_1_hint">Адреса, поштова скринька, адреса до запитання</string>
   <string name="autofill_profile_editor_address_line_2">Адресний рядок 2:</string>
   <string name="autofill_profile_editor_address_line_2_hint">Квартира, офіс, будинок, поверх і т. д.</string>
   <string name="autofill_profile_editor_city">Місто:</string>
@@ -57,7 +57,7 @@
   <string name="autofill_profile_successful_delete">Текст автозаповнення видалений.</string>
   <string name="autofill_profile_successful_save">Текст автозаповнення збережений.</string>
   <string name="autofill_setup_dialog_message">Браузер може автоматично заповнювати такі веб-форми. Включити автозаповнення?</string>
-  <string name="autofill_setup_dialog_negative_toast">Автозаповнення можна налаштувати в загальних настройках браузера</string>
+  <string name="autofill_setup_dialog_negative_toast">Автозаповнення можна налаштувати в загальних налаштуваннях браузера</string>
   <string name="autologin_bar_error">Не вдалося увійти</string>
   <string name="autologin_bar_hide_text">Приховати</string>
   <string name="autologin_bar_login_text">Увійти</string>
@@ -67,7 +67,7 @@
   <string name="bookmark_add_to">Додати в</string>
   <string name="bookmark_cannot_save_url">Неможливо додати в закладки цю сторінку</string>
   <string name="bookmark_list_view">Список</string>
-  <string name="bookmark_needs_title">Необхідно вказати ім\'я закладки</string>
+  <string name="bookmark_needs_title">Необхідно назвати закладку</string>
   <string name="bookmark_needs_url">Необхідно вказати місце закладки</string>
   <string name="bookmark_not_saved">Не вдалося зберегти закладку</string>
   <string name="bookmark_page">Додати в закладки останню переглянуту сторінку</string>
@@ -122,7 +122,7 @@
   <string name="delete_bookmark_warning">Видалити закладку \"%s\"?</string>
   <string name="delete_folder">Видалити папку</string>
   <string name="delete_multi_bookmarks_alert_title">Ви впевнені, що хочете видалити %1$s закладок?</string>
-  <string name="disable_autofill">Відключити автозаповнення</string>
+  <string name="disable_autofill">Вимкнути автозаповнення</string>
   <string name="do_not_save">Скасувати</string>
   <string name="download_no_sdcard_dlg_msg">Для завантаження %s необхідна SD-карта</string>
   <string name="download_no_sdcard_dlg_title">SD-карта відсутня</string>
@@ -154,11 +154,11 @@
   <string name="folder_name">Ім\'я папки</string>
   <string name="forward">Вперед</string>
   <string name="geolocation_permissions_prompt_dont_share">Відхилити</string>
-  <string name="geolocation_permissions_prompt_message">%s запрошує дані про ваше місцезнаходження</string>
+  <string name="geolocation_permissions_prompt_message">%s запитує дані про ваше місцезнаходження</string>
   <string name="geolocation_permissions_prompt_remember">Запам\'ятати налаштування</string>
   <string name="geolocation_permissions_prompt_share">Дозволити</string>
-  <string name="geolocation_permissions_prompt_toast_allowed">У цього сайту є доступ до даних про ваше місцезнаходження. Щоб заборонити його, виберіть \"Настройки -&gt; Розширенні -&gt; Настройки веб-сайтів\".</string>
-  <string name="geolocation_permissions_prompt_toast_disallowed">У цього сайту немає доступу до даних про ваше місцезнаходження. Щоб надати його, виберіть \"Настройки -&gt; Розширенні -&gt; Настройки веб-сайтів\".</string>
+  <string name="geolocation_permissions_prompt_toast_allowed">У цього сайту є доступ до даних про ваше місцезнаходження. Щоб заборонити його, виберіть \"Налаштування -&gt; Розширенні -&gt; Налаштування веб-сайтів\".</string>
+  <string name="geolocation_permissions_prompt_toast_disallowed">У цього сайту немає доступу до даних про ваше місцезнаходження. Щоб надати його, виберіть \"Налаштування -&gt; Розширенні -&gt; Налаштування веб-сайтів\".</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Скасувати</string>
   <string name="geolocation_settings_page_dialog_message">Закрити цього сайту доступ до даних про ваше місцезнаходження?</string>
   <string name="geolocation_settings_page_dialog_ok_button">ОК</string>
@@ -194,13 +194,13 @@
   <string name="is_last_tab">Це остання вкладка</string>
   <string name="is_page_bottom">Досягнуто кінця сторінки</string>
   <string name="is_page_top">Досягнуто початку сторінки</string>
-  <string name="js_engine_flags">Установка JS прапорів</string>
+  <string name="js_engine_flags">Установка JS прапорців</string>
   <string name="loadSuspended">Не вдалося завантажити сторінку: немає інтернет-підключення</string>
-  <string name="loadSuspendedTitle">Немає підключення</string>
+  <string name="loadSuspendedTitle">Відсутне підключення</string>
   <string name="loading_video">Завантажити відео…</string>
   <string name="local_bookmarks">Локальні</string>
   <string name="location">Адреса</string>
-  <string name="manage_feature_permissions">Управління правами</string>
+  <string name="manage_feature_permissions">Керування правами</string>
   <string name="max_tabs_warning">Досягнута межа кількості вкладок</string>
   <string name="menu_disable_night_mode">Вимкути нічний режим</string>
   <string name="menu_enable_night_mode">Увмкнути нічний режим</string>
@@ -282,8 +282,8 @@
   <string name="pref_exit_on_closing_last_tab_enabled_summary">Увімкніть, щоб закрити браузер при закритті останньої вкладки, вимкніть, щоб перейти на домашню сторінку</string>
   <string name="pref_exit_on_closing_last_tab_enabled_title">Виходити із закриттям останньої вкладки</string>
   <string name="pref_extras_reset_default">Скидання налаштувань</string>
-  <string name="pref_extras_reset_default_dlg">Відновити налаштування за замовчуванням?</string>
-  <string name="pref_extras_reset_default_summary">Відновити значення за замовчуванням</string>
+  <string name="pref_extras_reset_default_dlg">Відновити типові налаштування?</string>
+  <string name="pref_extras_reset_default_summary">Відновити типові значення?</string>
   <string name="pref_extras_reset_default_title">Скидання налаштувань</string>
   <string name="pref_extras_title">Розширені</string>
   <string name="pref_extras_website_settings">Налаштування веб-сайтів</string>
@@ -292,7 +292,7 @@
   <string name="pref_fling_on_border_operation">Операція Кинути на межі</string>
   <string name="pref_font_size_category">Розмір тексту</string>
   <string name="pref_force_userscalable">Фікс. масштаб</string>
-  <string name="pref_force_userscalable_summary">Використовувати заданий масштабування</string>
+  <string name="pref_force_userscalable_summary">Використовувати задане масштабування</string>
   <string name="pref_general_autofill_title">Автозаповнення</string>
   <string name="pref_general_exit_setting_title">Налаштування виходу</string>
   <string name="pref_general_sync_title">Синхронізація</string>

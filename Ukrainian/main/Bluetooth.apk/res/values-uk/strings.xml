@@ -3,7 +3,7 @@
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="ErrorTooManyRequests">Обробляється занадто багато запитів. Повторіть спробу пізніше</string>
-  <string name="ack_record">Запис підтвердження</string>
+  <string name="ack_record">Запит підтвердження</string>
   <string name="airplane_error_msg">В режимі польоту не можна використовувати Bluetooth</string>
   <string name="airplane_error_title">Режим польоту</string>
   <string name="app_name">Надсилання по Bluetooth</string>
@@ -11,7 +11,7 @@
   <string name="auth_notif_ticker">Запит на аутентифікацію Obex</string>
   <string name="auth_notif_title">Ключ сеансу</string>
   <string name="bluetooth_share_file_name">bluetooth_content_share</string>
-  <string name="bt_enable_cancel">Відмінити</string>
+  <string name="bt_enable_cancel">Скасувати</string>
   <string name="bt_enable_line1">Щоб використовувати служби Bluetooth, увімкніть адаптер Bluetooth</string>
   <string name="bt_enable_line2">Увімкнути Bluetooth?</string>
   <string name="bt_enable_ok">Увімкнути</string>

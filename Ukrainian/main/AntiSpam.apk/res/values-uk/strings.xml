@@ -34,7 +34,7 @@
   <string name="black_white_list_tab_title">Списки</string>
   <string name="call_log_tab_title">Дзвінки</string>
   <string name="calllog">Журнал викликів</string>
-  <string name="cancel_button">Відмінити</string>
+  <string name="cancel_button">Скасувати</string>
   <string name="check_all">Вибрати всі</string>
   <string name="check_nothing">Зняти виділення</string>
   <string name="clear_all_calllog">Очистити</string>
@@ -54,13 +54,13 @@
   <string name="enable_firewall">Включити фільтрацію</string>
   <string name="firewall_action">Дії брандмауера</string>
   <string name="firewall_log">Записи фільтра</string>
-  <string name="firewall_settings">Настройки фільтрації</string>
+  <string name="firewall_settings">Налаштування фільтрації</string>
   <string name="firewall_settings_tab_title">Налаштування</string>
-  <string name="fw_action_settings">Настройки фільтрації</string>
+  <string name="fw_action_settings">Налаштування фільтрації</string>
   <string name="fw_add_keyword">Додати шаблон</string>
-  <string name="fw_add_keyword_existing">Слово: %s вже добавлено</string>
+  <string name="fw_add_keyword_existing">Слово: %s вже додане</string>
   <string name="fw_add_list_title">Введіть телефонний номер</string>
-  <string name="fw_advanced_settings">Розширенні настройки</string>
+  <string name="fw_advanced_settings">Розширенні налаштування</string>
   <string name="fw_all_day">Весь день</string>
   <string name="fw_blacklist">Чорний список</string>
   <string name="fw_blacklist_hint">Дзвінки і повідомлення автоматично блокуються при додаванні в чорний список</string>
@@ -97,7 +97,7 @@
   <string name="fw_no_effect">Режим захисту не включений</string>
   <string name="fw_notes_hint">Примітка (необов\'язково)</string>
   <string name="fw_notification_settings">Сповіщення та інше</string>
-  <string name="fw_on">Фільтрація включена</string>
+  <string name="fw_on">Фільтрація ввімкнена</string>
   <string name="fw_pattern_settings">Фільтрувати</string>
   <string name="fw_period">Період</string>
   <string name="fw_restore_ms">Повернутися до Повідомлень</string>

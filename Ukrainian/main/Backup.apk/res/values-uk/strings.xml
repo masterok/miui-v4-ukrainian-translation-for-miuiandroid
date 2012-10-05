@@ -4,7 +4,7 @@
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="account_login">Увійти в систему</string>
   <string name="account_summary">- Налаштування облікового запису</string>
-  <string name="already_enable_encrypt">Включить шифрование</string>
+  <string name="already_enable_encrypt">Ввімкнути шифрування</string>
   <string name="app_name">Бекап</string>
   <string name="auto_backup">Автоматично</string>
   <string name="auto_backup_choose">Вибрані елементи</string>
@@ -134,7 +134,7 @@
   <string name="sc_unauthorized">Сертифікація не дійсна</string>
   <string name="sdcard_no_enough_space">Недостатньо пам\'яті на SD-карті</string>
   <string name="sdcard_no_enough_space_message">Резервне копіювання може завершитись з помилкою, будь-ласка звільніть місце на SD-карті</string>
-  <string name="sdcard_unmounted">SD-карта не знайдена або відключена</string>
+  <string name="sdcard_unmounted">SD-карта не знайдена або вимкнена</string>
   <string name="select_all">Усі</string>
   <string name="service_stoped">Служба зупинилася</string>
   <string name="settings_summary">- Налаштування телефону і повідомлень</string>

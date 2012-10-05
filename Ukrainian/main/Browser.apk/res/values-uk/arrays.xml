@@ -9,7 +9,7 @@
         <item>Поточна сторінка</item>
         <item>Домашня MIUI</item>
         <item>Пуста сторінка</item>
-        <item>Сторінка за замовчуванням</item>
+        <item>Типова сторінка</item>
         <item>Часто відвідувані веб-сайти</item>
         <item>Інша</item>
     </string-array>
@@ -41,9 +41,9 @@
         <item>Завжди</item>
     </string-array>
 	<string-array name="pref_link_prefetch_choices">
-       <item>Никогда</item>
-       <item>Только при Wi-Fi</item>
-       <item>Всегда</item>
+       <item>Ніколи</item>
+       <item>Тільки при Wi-Fi</item>
+       <item>Завжди</item>
     </string-array>
     <string-array name="bookmarks">
         <item>Google</item>
@@ -78,10 +78,10 @@
     </string-array>
     <string-array name="pref_volume_key_choices">
         <item>Прокрутка сторінки</item>
-        <item>Переключення вкладок</item>
+        <item>Перемикання вкладок</item>
     </string-array>
     <string-array name="pref_fling_on_border_choices">
         <item>Кнопки назад або вперед</item>
-        <item>Переключення вкладок</item>
+        <item>Перемикання вкладок</item>
     </string-array>
 </resources>

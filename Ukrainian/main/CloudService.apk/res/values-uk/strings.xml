@@ -6,9 +6,9 @@
   <string name="account_banner">Увійти в Xiaomi для MIUI і MiTalk</string>
   <string name="account_deleted">Акаунт видалено</string>
   <string name="account_disabled">Акаунт заблоковано</string>
-  <string name="account_expired_dialog_message">Перезайдіте в акаунт Xiaomi</string>
+  <string name="account_expired_dialog_message">Перезайдіть в акаунт Xiaomi</string>
   <string name="account_expired_dialog_title">Термін дії акаунта закінчився</string>
-  <string name="account_hint_text">Телефон/Електронна пошта</string>
+  <string name="account_hint_text">Телефон/Ел. пошта</string>
   <string name="app_name">Менеджер акаунтів Xiaomi</string>
   <string name="authenticator_label">Xiaomi</string>
   <string name="bad_authentication">Невірний пароль або ім\'я користувача</string>
@@ -24,7 +24,7 @@
   <string name="by_email">Використовувати E-Mail</string>
   <string name="by_mobile">Використовувати номер телефону</string>
   <string name="create_now">Створити зараз</string>
-  <string name="disable_mitalk_dialog_message">Ви не зможете спілкуватися з друзями через MiTalk в Контактах, ви впевнені що до відключення синхронізації MiTalk і контактів? n Примітка: Після виключення, ви можете змінити або скасувати Ваш акаунт в настройках MiTalk</string>
+  <string name="disable_mitalk_dialog_message">Ви не зможете спілкуватися з друзями через MiTalk в Контактах, ви впевнені що до відключення синхронізації MiTalk і контактів? n Примітка: Після відключення, ви можете змінити або скасувати Ваш акаунт в налаштуваннях MiTalk</string>
   <string name="disable_mitalk_dialog_title">Вимкнути MiTalk sync</string>
   <string name="email_not_verified">E-mail не перевірений</string>
   <string name="enable_mitalk_dialog_message">Буде виконаний вхід у MiTalk з системним акаунтом. Якщо він не відповідає поточному ID MiTalk, ваші дані будуть видалені. Ви впевнені?</string>

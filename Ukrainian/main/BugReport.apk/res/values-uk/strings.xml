@@ -3,7 +3,7 @@
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="app_label">Зворотній зв\'язок</string>
-  <string name="btn_send">Відправити</string>
+  <string name="btn_send">Надіслатити</string>
   <string name="description">Опис (обов\'язково)</string>
   <string name="info_board">Платформа</string>
   <string name="info_brand">Виробник </string>
@@ -46,7 +46,7 @@
   <string name="toast_description_required">Відгук користувача не може бути порожнім</string>
   <string name="toast_report_copied_to_clipboard">Звіт скопійовано в буфер обміну</string>
   <string name="toast_report_sent_failed">Помилка відправлення звіту</string>
-  <string name="toast_report_sent_succeed">Звіт був успішно відправлений</string>
+  <string name="toast_report_sent_succeed">Звіт був успішно надісланий</string>
   <string name="user_feedback">Відгуки</string>
   <string name="user_feedback_preview">Попередній перегляд відгуку</string>
 </resources>

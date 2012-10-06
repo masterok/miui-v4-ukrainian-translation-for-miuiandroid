@@ -108,7 +108,7 @@
   <string name="menu_preferences">Налаштування</string>
   <string name="menu_select_visible_calendars">Календарі</string>
   <string name="modify_all">Змінити усі заходи в серії</string>
-  <string name="modify_all_following">Змінити це і майбутні заходи</string>
+  <string name="modify_all_following">Змінити цей і майбутні заходи</string>
   <string name="modify_event">Змінити тільки цей захід</string>
   <string name="month_view">Місяць</string>
   <string name="monthly">Щомісяця</string>

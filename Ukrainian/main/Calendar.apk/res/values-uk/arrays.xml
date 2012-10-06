@@ -44,7 +44,7 @@
         <item>1 тиждень</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Регіональні налаштування за замовчуванням</item>
+        <item>Типові регіональні налаштування</item>
         <item>субота</item>
         <item>неділя</item>
         <item>понеділок</item>
@@ -141,7 +141,7 @@
         <item>Може бути</item>
     </string-array>
     <string-array name="visibility">
-        <item>За замовчуванням</item>
+        <item>Типово</item>
         <item>Закрите</item>
         <item>Для всіх</item>
 	</string-array>
@@ -160,11 +160,11 @@
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>Тільки цей захід</item>
-        <item>Це і майбутні заходи</item>
+        <item>Цей і майбутні заходи</item>
         <item>Усі заходи</item>	
     </string-array>
     <string-array name="delete_repeating_labels_no_selected">
-        <item>Це і майбутні заходи</item>
+        <item>Цей і майбутні заходи</item>
         <item>Усі заходи</item>
     </string-array>
     <string-array name="change_response_labels">

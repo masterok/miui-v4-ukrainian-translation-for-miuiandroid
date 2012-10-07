@@ -6,7 +6,7 @@
         <item>В процесі</item>
     </string-array>
     <string-array name="prefEntries_max_bytes_limit">
-        <item>Немає ліміту</item>
+        <item>Без обмежень</item>
         <item>10МБ</item>
         <item>5МБ</item>
         <item>2МБ</item>

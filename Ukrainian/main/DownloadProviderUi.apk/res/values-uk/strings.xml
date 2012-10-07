@@ -19,11 +19,11 @@
   <string name="dialog_file_missing_body">Завантажений файл не знайдений</string>
   <string name="dialog_insufficient_space_on_cache">Не можу закінчити завантаження. Недостатньо місця на внутрішніх накопичувачах</string>
   <string name="dialog_insufficient_space_on_external">Не можу закінчити завантаження. Недостатньо місця на зовнішніх накопичувачах</string>
-  <string name="dialog_media_not_found">Не можу скачати. Зовнішній носій не доступний</string>
-  <string name="dialog_queued_body">Цей файл в черзі на скачування</string>
+  <string name="dialog_media_not_found">Не можу завантажити. Зовнішній носій не доступний</string>
+  <string name="dialog_queued_body">Цей файл в черзі на завантаження</string>
   <string name="dialog_title_not_available">Помилка завантаження</string>
   <string name="dialog_title_queued_body">Файл не доступний</string>
-  <string name="download_complete">Скачані</string>
+  <string name="download_complete">Завантажені</string>
   <string name="download_error">Помилка</string>
   <string name="download_error_insufficient_space">Недостатньо місця</string>
   <string name="download_in_process">В процесі</string>

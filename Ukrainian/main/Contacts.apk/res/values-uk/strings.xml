@@ -11,7 +11,7 @@
   <string name="activity_title_settings">Налаштування</string>
   <string name="add_account">Додати акаунт</string>
   <string name="add_blacklist">Додати в чорний список</string>
-  <string name="add_connection_button">Додати соцмережа</string>
+  <string name="add_connection_button">Додати соцмережу</string>
   <string name="add_contact_dlg_message_fmt">Додати в контакти %s?</string>
   <string name="add_contact_dlg_title">Додати контакт</string>
   <string name="add_field">Додати поле</string>
@@ -19,7 +19,7 @@
   <string name="add_new_entry_for_section">Додати</string>
   <string name="add_organization">Додати організацію</string>
   <string name="add_to_my_contacts">Додати в групу \"Мої контакти\"</string>
-  <string name="aggregation_suggestion_edit_dialog_message">Переключитися на редагування вибраного контакту? Введена інформація буде скопійована.</string>
+  <string name="aggregation_suggestion_edit_dialog_message">Перейти до редагування вибраного контакту? Введена інформація буде скопійована.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Редагувати вибрані контакти</string>
   <string name="aggregation_suggestion_join_dialog_message">Об\'єднати поточний контакт з обраним контактом?</string>
   <string name="aggregation_suggestion_join_dialog_title">Об\'єднати контакти</string>
@@ -55,7 +55,7 @@
   <string name="call_other">Подзвонити</string>
   <string name="call_other_fax">Зателефонувати на номер факсу</string>
   <string name="call_pager">Пейджер</string>
-  <string name="call_radio">Радиотелефон</string>
+  <string name="call_radio">Радіотелефон</string>
   <string name="call_telex">Телекс</string>
   <string name="call_tty_tdd">Телетайп</string>
   <string name="call_work">Робочий тел.</string>
@@ -84,7 +84,7 @@
   <string name="callrecordview_menu_paste">Вставити</string>
   <string name="callrecordview_menu_settings">Налаштування</string>
   <string name="callrecordview_menu_show">Фільтр</string>
-  <string name="callrecordview_menu_show_accepted">Тільки входять</string>
+  <string name="callrecordview_menu_show_accepted">Тільки вхідні</string>
   <string name="callrecordview_menu_show_all">Всі</string>
   <string name="callrecordview_menu_show_called">Тільки вихідні</string>
   <string name="callrecordview_menu_show_missed">Тільки пропущені</string>
@@ -110,7 +110,7 @@
   <string name="clearCallLogConfirmation">Журнал дзвінків буде очищений</string>
   <string name="clearCallLogConfirmation_title">Видалення даних</string>
   <string name="clearCallLogProgress_title">Очищення списку дзвінків...</string>
-  <string name="clear_default">Видалити налаштування за замовчуванням</string>
+  <string name="clear_default">Видалити типові налаштування</string>
   <string name="click_close">Торкніться екрану, щоб закрити</string>
   <string name="close">Закрити</string>
   <string name="composer_failed_to_get_database_infomation">База даних недоступна</string>
@@ -139,7 +139,7 @@
   <string name="contactsAllLabel">Всі</string>
   <string name="contactsFavoritesLabel">Уподобання</string>
   <string name="contactsGroupsLabel">Групи</string>
-  <string name="contactsJoinedMessage">Контакти об\'єднані</string>
+  <string name="contactsJoinedMessage">Об\'єднані контакти</string>
   <string name="contactsList">Контакти</string>
   <string name="contacts_unavailable_add_account">Увійдіть в акаунт</string>
   <string name="contacts_unavailable_add_xiaomi_account">Синхронізувати контакти Xiaomi</string>
@@ -153,7 +153,7 @@
   <string name="date_picker_label">Нагадати за 3 дні і в день народження</string>
   <string name="date_time_set">Налаштувати</string>
   <string name="date_year_toggle">Вказати рік</string>
-  <string name="default_ringtone">За замовчуванням</string>
+  <string name="default_ringtone">Типово</string>
   <string name="delete">Очистити</string>
   <string name="deleteConfirmation">Цей контакт буде видалено</string>
   <string name="deleteConfirmation_title">Видалення контакту</string>
@@ -163,7 +163,7 @@
   <string name="delete_duplicate_message">"Злиття..."</string>
   <string name="delete_group_dialog_message">Дійсно видалити групу \"%1$s\"? (Контакти не будуть видалені)</string>
   <string name="delete_group_dialog_title">Видалення групи</string>
-  <string name="delete_unknown_contact_calllog_title">Запис журналу визововов невідомого контакту буде видалена</string>
+  <string name="delete_unknown_contact_calllog_title">Записи журналу викликів невідомого контакту буде видалено</string>
   <string name="description_add_contact">Додати контакт</string>
   <string name="description_call">Подзвонити: %1$s</string>
   <string name="description_call_log_incoming_call">Вхідний дзвінок</string>
@@ -203,7 +203,7 @@
   <string name="dialog_sync_add">Додати групу синхронізації</string>
   <string name="directory_search_label">Каталог</string>
   <string name="dirty_contacts_notification_description">У вас є %d не синхронізовані контактів</string>
-  <string name="dirty_contacts_notification_message">(Ви можете вимкнути нагадування в настройках)</string>
+  <string name="dirty_contacts_notification_message">(Ви можете вимкнути нагадування в налаштуваннях)</string>
   <string name="dirty_contacts_notification_title">Ви хочете синхронізувати контакти?</string>
   <string name="display_all_contacts">Всі контакти</string>
   <string name="display_more_groups">Інші групи...</string>
@@ -234,7 +234,7 @@
   <string name="eventLabelsGroup">Заходи</string>
   <string name="event_edit_field_hint_text">Дата</string>
   <string name="export_sim_contact_finish">Експорт на SIM-карту завершено</string>
-  <string name="export_sim_contacts_dialog_message">На SIM-карту можні зберегти %d контактів, продовжити?</string>
+  <string name="export_sim_contacts_dialog_message">На SIM-карту можна зберегти %d контактів, продовжити?</string>
   <string name="export_to_sdcard">Експорт на SD-карту</string>
   <string name="export_to_sim">Експорт на SIM-карту</string>
   <string name="export_vcard_description">Експортувати vCard на SD-карту</string>
@@ -253,7 +253,7 @@
   <string name="fail_reason_low_memory_during_import">Недостатньо пам\'яті. Можливо, файл занадто великий</string>
   <string name="fail_reason_no_exportable_contact">Немає контактів для експорту</string>
   <string name="fail_reason_not_supported">Формат не підтримується</string>
-  <string name="fail_reason_too_long_filename">Занадто довгу назву: %s</string>
+  <string name="fail_reason_too_long_filename">Занадто довга назва: %s</string>
   <string name="fail_reason_too_many_vcard">Занадто багато файлів VCard на SD-карті</string>
   <string name="fail_reason_unknown">Невідома помилка</string>
   <string name="favoritesFrequentCalled">Часто викликаються</string>
@@ -369,7 +369,7 @@
   <string name="menu_search">Пошук</string>
   <string name="menu_sendSMS">Відправити SMS/MMS</string>
   <string name="menu_send_to_desktop">Створити ярлик</string>
-  <string name="menu_set_ring_tone">Поставити рінгтон</string>
+  <string name="menu_set_ring_tone">Встановити рінгтон</string>
   <string name="menu_settings">Налаштування</string>
   <string name="menu_share">Надіслати</string>
   <string name="menu_splitAggregate">Розділити</string>
@@ -403,7 +403,7 @@
  
 Щоб додати контакти, натисніть Меню і виберіть один з варіантів.
  
-Акаунти: додавання або настройка акаунту за контактами, які можна синхронізувати з телефоном.
+Акаунти: додавання або налаштування акаунту за контактами, які можна синхронізувати з телефоном.
  
 Новий контакт: додавання контакту.
  
@@ -414,9 +414,9 @@
  
 Щоб додати контакти, натисніть Меню і виберіть один з варіантів.
  
-Акаунти: додавання або настройка акаунту за контактами, які можна синхронізувати з телефоном.
+Акаунти: додавання або налаштування акаунту за контактами, які можна синхронізувати з телефоном.
  
-Фільтр контактів: настройка параметрів показу контактів.
+Фільтр контактів: налаштування параметрів показу контактів.
  
 Новий контакт: додавання контакту.
  
@@ -427,7 +427,7 @@
  
 Щоб додати контакти, натисніть Меню і виберіть один з варіантів.
  
-Акаунти: додавання або настройка акаунту за контактами, які можна синхронізувати з телефоном.
+Акаунти: додавання або налаштування акаунту за контактами, які можна синхронізувати з телефоном.
  
 Новий контакт: додавання контакту.
  
@@ -437,9 +437,9 @@
  
 Щоб додати контакти, натисніть Меню і виберіть один з варіантів.
  
-Акаунти: додавання або настройка акаунту за контактами, які можна синхронізувати з телефоном.
+Акаунти: додавання або налаштування акаунту за контактами, які можна синхронізувати з телефоном.
  
-Фільтр контактів: настройка параметрів показу контактів.
+Фільтр контактів: налаштування параметрів показу контактів.
  
 Новий контакт: додавання контакту.
  
@@ -458,7 +458,7 @@
 "</string>
   <string name="noGroups">Немає груп</string>
   <string name="noMatchingContacts">Відповідні контакти не знайдені</string>
-  <string name="noRecentContacts">Ні контактів</string>
+  <string name="noRecentContacts">Немає контактів</string>
   <string name="no_account_prompt">"Підключіть Контакти до аккаунту Google, щоб:
  
 • Завжди мати під рукою оновлені дані - на будь-якому пристрої.
@@ -564,7 +564,7 @@
   <string name="separatorJoinAggregateAll">Всі контакти</string>
   <string name="separatorJoinAggregateSuggestions">Пропоновані контакти</string>
   <string name="service_provider">Надання сервісів</string>
-  <string name="set_default">Встановити за замовчуванням</string>
+  <string name="set_default">Встановити типовим</string>
   <string name="share_error">Не вдалося передати дані</string>
   <string name="share_via">Спосіб відправки</string>
   <string name="share_visible_contacts">Передати всі контакти</string>
@@ -575,7 +575,7 @@
   <string name="showAllContactsJoinItem">Показати всі контакти</string>
   <string name="simContacts_emptyLoading">Завантаження з SIM-карти...</string>
   <string name="simContacts_title">Контакти на SIM-картці</string>
-  <string name="sim_card_no_free_space_message">Пам\'ять SIM-карти заповнена. Будь-ласка, очистіть SIM-карту і попробуйте ще раз.</string>
+  <string name="sim_card_no_free_space_message">Пам\'ять SIM-карти заповнена. Будь-ласка, очистіть SIM-карту і спробуйте ще раз.</string>
   <string name="sim_card_no_free_space_title">SIM-карта заповнена!</string>
   <string name="sim_contact_search_error">Помилка при пошуку контактів на SIM-карті</string>
   <string name="sim_contacts">Контакти на SIM-карті</string>
@@ -583,14 +583,14 @@
   <string name="sim_contacts_visiable">Показувати</string>
   <string name="sim_export_loading">SIM-карта зчитується. Операція може зайняти декілька хвилин, будь-ласка, зачекайте...</string>
   <string formatted="false" name="sim_indexed_contact_not_exist">Позиція %1$d не є припустимою на SIM-картці, повинна бути між %2$dі%3$d</string>
-  <string name="sim_no_contact">Ні контактів на SIM-картці</string>
+  <string name="sim_no_contact">Немає контактів на SIM-картці</string>
   <string name="sms">Текстове повідомлення</string>
   <string name="sms_assistant">Надіслати текстове повідомлення на номер %s</string>
   <string name="sms_callback">SMS: номер зворотного виклику</string>
   <string name="sms_car">SMS: тел. в машині</string>
   <string name="sms_company_main">SMS: тел. офісу</string>
   <string name="sms_custom">SMS (%s)</string>
-  <string name="sms_disambig_title">Відправити SMS за допомогою</string>
+  <string name="sms_disambig_title">Надіслати SMS за допомогою</string>
   <string name="sms_fax_home">SMS: будинок. факс</string>
   <string name="sms_fax_work">SMS: робочий факс</string>
   <string name="sms_home">SMS: домашній тел.</string>
@@ -598,8 +598,8 @@
   <string name="sms_main">SMS: основ. тел.</string>
   <string name="sms_mms">MMS</string>
   <string name="sms_mobile">SMS: мобільний</string>
-  <string name="sms_other">Відправити SMS</string>
-  <string name="sms_other_fax">Відправити SMS · на номер факсу</string>
+  <string name="sms_other">Надіслати SMS</string>
+  <string name="sms_other_fax">Надіслати SMS · на номер факсу</string>
   <string name="sms_pager">SMS: пейджер</string>
   <string name="sms_radio">SMS: радіотелефон</string>
   <string name="sms_telex">SMS: телекс</string>
@@ -608,7 +608,7 @@
   <string name="sms_work_mobile">SMS: робочий моб.</string>
   <string name="sms_work_pager">SMS: робочий пейдж.</string>
   <string name="social_widget_label">Контакт</string>
-  <string name="social_widget_loading">Загрузка...</string>
+  <string name="social_widget_loading">Завантаження...</string>
   <string name="splitConfirmation">Цей контакт буде розділений</string>
   <string name="splitConfirmation_title">Поділ контакту</string>
   <string name="starredList">Помічені</string>

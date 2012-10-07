@@ -45,7 +45,7 @@
   <string name="day_concat">", "</string>
   <string name="days">%s дн.</string>
   <string name="default_label">Будильник</string>
-  <string name="default_ringtone_setting_title">Встановити мелодію дзвінка за замовчуванням</string>
+  <string name="default_ringtone_setting_title">Встановити типову мелодію дзвінка</string>
   <string name="delelte_selected_timezone">Ви дійсно хочете видалити вибраний часовий пояс(и)?</string>
   <string name="delete">Видалити</string>
   <string name="delete_alarm">Видалити будильник</string>
@@ -115,7 +115,7 @@
   <string name="volume_button_dialog_title">Функція клавіш</string>
   <string name="volume_button_setting_summary">Визначити функцію цієї кнопки під час дзвінка будильника</string>
   <string name="volume_button_setting_title">Гучність</string>
-  <string name="wait_when_operating_data_message">Обробка даних, почекайте</string>
+  <string name="wait_when_operating_data_message">Обробка даних, зачекайте</string>
   <string name="weather_fetch_failure">Інформація про погоду зараз недоступна</string>
   <string name="weekend_alarm_clock">По вихідних</string>
   <string name="workday_alarm_clock">В будні дні</string>

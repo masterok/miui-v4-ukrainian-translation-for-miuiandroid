@@ -24,7 +24,7 @@
   <string name="account_settings_background_attachments_summary">Завантажувати прикріплені файли при підключенні до Wi-Fi</string>
   <string name="account_settings_category_delete_account">Видалити акаунт</string>
   <string name="account_settings_data_usage">Використання даних</string>
-  <string name="account_settings_default_label">Аккаунт за замовчуванням</string>
+  <string name="account_settings_default_label">Типовий акаунт</string>
   <string name="account_settings_default_summary">Зробити акаунтом електронної пошти за замовчуванням для відправки повідомлень</string>
   <string name="account_settings_delete_account_label">Видалити акаунт</string>
   <string name="account_settings_description_label">Назва акаунта</string>

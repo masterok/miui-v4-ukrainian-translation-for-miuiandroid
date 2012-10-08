@@ -6,5 +6,5 @@
   <string name="permdesc_accessDrm">Надає програмам доступ до змісту, який захищено DRM</string>
   <string name="permdesc_installDrm">Дозволяє програмам встановлювати зміст, який захищено DRM</string>
   <string name="permlab_accessDrm">Доступ до змісту DRM</string>
-  <string name="permlab_installDrm">Установка змісту DRM</string>
+  <string name="permlab_installDrm">Встановлення змісту DRM</string>
 </resources>

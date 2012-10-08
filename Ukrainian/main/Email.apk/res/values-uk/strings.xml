@@ -33,7 +33,7 @@
   <string name="account_settings_exit_server_settings">Скасувати незбережені зміни?</string>
   <string name="account_settings_incoming_label">Налаштування вхідних повідомлень</string>
   <string name="account_settings_incoming_summary">Ім\'я користувача, пароль та ін. налаштування сервера вхідної пошти</string>
-  <string name="account_settings_login_dialog_content_fmt">Невірне ім\'я користувача або пароль акаунта% s. Оновити їх зараз?</string>
+  <string name="account_settings_login_dialog_content_fmt">Невірне ім\'я користувача або пароль акаунта %s. Оновити їх зараз?</string>
   <string name="account_settings_login_dialog_title">Не вдалося увійти в акаунт</string>
   <string name="account_settings_mail_check_frequency_label">Частота перевірки папки \"Вхідні\"</string>
   <string name="account_settings_name_label">Ваше ім\'я</string>
@@ -99,13 +99,13 @@
   <string name="account_setup_failed_dlg_certificate_message">Не вдалося встановитиь захищене підключення до сервера</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Не вдалося встановитиь захищене підключення до сервера.
 %s"</string>
-  <string name="account_setup_failed_dlg_edit_details_action">Изменить сведения</string>
-  <string name="account_setup_failed_dlg_server_message">Не вдалося подключиться к серверу</string>
-  <string name="account_setup_failed_dlg_server_message_fmt">"Не вдалося подключиться к серверу.
+  <string name="account_setup_failed_dlg_edit_details_action">Змінити дані</string>
+  <string name="account_setup_failed_dlg_server_message">Не вдалося підключитися до сервера</string>
+  <string name="account_setup_failed_dlg_server_message_fmt">"Не вдалося підключитися до сервера.
 %s"</string>
-  <string name="account_setup_failed_dlg_title">Налаштування не закончена</string>
-  <string name="account_setup_failed_ioerror">Не вдалося подключиться к серверу</string>
-  <string name="account_setup_failed_protocol_unsupported">Введен неправильный адрес сервера или сервер запрашивает версию протокола, которая не поддерживается в Email</string>
+  <string name="account_setup_failed_dlg_title">Налаштування не завершене</string>
+  <string name="account_setup_failed_ioerror">Не вдалося підключитися до сервера</string>
+  <string name="account_setup_failed_protocol_unsupported">Введений не вірна адреас сервера або сервер запитує версію протокола, яка не підтримується у Email</string>
   <string name="account_setup_failed_security">Не вдалося установить подключение к серверу из-за ошибки безопасности</string>
   <string name="account_setup_failed_security_policies_unsupported">Ваше Android-устройство не поддерживает обязательные для сервера функции защиты: %s</string>
   <string name="account_setup_failed_tls_required">TLS не поддерживается сервером</string>
